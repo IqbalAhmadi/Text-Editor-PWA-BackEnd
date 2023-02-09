@@ -7,6 +7,6 @@ const header = `
  ____/_/  |_/_/ /_____/   
 just another text editor
 */                          
-`;
+`
 
-export { header };
+export { header }
