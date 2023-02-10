@@ -17,7 +17,7 @@ Navigate to the root directory of the project in your terminal and install the d
 
 ## Heroku Link
 
-[Deployed Link on Heroku](https://)
+[Deployed Link on Heroku](https://text-editor-pwa-backend.herokuapp.com/)
 
 ## Credit
 
