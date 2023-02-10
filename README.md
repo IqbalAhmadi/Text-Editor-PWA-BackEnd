@@ -7,11 +7,11 @@ This a text editor that runs in the browser. The app is a single-page applicatio
 ## Installation
 
 - Make sure to install Node.js
-- Install required npm dependencies
+- Install required npm dependencies (npm i)
 
-## Usage 
+## Usage
 
-Navigate to the root directory of the project in your terminal and install the dependencies with 'npm i' then start the server with npm start. The application will be deployed on your [localhost with port 3000](http://localhost:3000/). When you first start the application you should see something similar to the image below. You can now use the text editor and it will save all changes you make automatically as you make changes to it. You can also visit a working application on heroku via the [heroku link section](#heroku-link)
+Navigate to the root directory of the project in your terminal and install the dependencies with 'npm i' then start the server with npm start. The application will be deployed on your [localhost with port 3000](http://localhost:3000/). When you first start the application you should see something similar to the image below. You can now use the text editor and it will save all changes you make automatically as you make changes to it.
 
 ![Project Preview](./assets/images/project-preview-browser.png)
 
@@ -19,7 +19,7 @@ Navigate to the root directory of the project in your terminal and install the d
 
 [Deployed Link on Heroku](https://)
 
-## Credit 
+## Credit
 
 N/A
 
